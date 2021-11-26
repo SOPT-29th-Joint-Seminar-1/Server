@@ -22,4 +22,11 @@ module.exports = {
 
     // 유저 삭제 성공
     USER_DELETE_SUCCESS: "유저 삭제 성공",
+
+    // 이벤트 불러오기 성공
+    READ_EVENT_SUCCESS: "이벤트 불러오기 성공",
+
+    // 카테고리 불러오기 성공
+    READ_CATEGORY_SUCCESS: "카테고리 불러오기 성공",
+    READ_ALL_CATEGORY_SUCCESS: "모든 카테고리 불러오기 성공",
 };
